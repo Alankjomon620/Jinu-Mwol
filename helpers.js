@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *Shadow*:  ```" + msg + "```"
+    return "✅ *Jinu-Mwol*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *Shadow*:  ```" + msg + "```"
+    return "🛑 *Jinu-Mwol*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *Shadow*:  ```" + msg + "```"
+    return "⏺️ *Jinu-Mwol*:  ```" + msg + "```"
 }
 
 
