@@ -60,6 +60,8 @@ module.exports = {
     AFKMSG: process.env.AFK_MESSAGE === undefined ? 'default' : process.env.AFK_MESSAGE,
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
+    INSTA: process.env.LINK === undefined ? 'https://instagram.com/_.lino_ox' : process.env.LINK,
+    GROUP: process.env.LINK === undefined ? 'https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk' : process.env.LINK,   
     MAHN: "917025994178,0",
     BRANCH: 'master',
     HEROKU: {
