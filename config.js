@@ -62,6 +62,8 @@ module.exports = {
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
     INSTA: process.env.LINK === undefined ? 'https://instagram.com/_.lino_ox' : process.env.LINK,
     GROUP: process.env.LINK === undefined ? 'https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk' : process.env.LINK,   
+    LG_LOGO: process.env.LG_LOGO === undefined ? 'https://i.imgur.com/Ho34ZwC.jpg' : process.env.LG_LOGO,
+    LOGO_NAME: process.env.LOGO_NAME === undefined ? 'ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴊɪɴᴜ ᴍᴏʟ࿐' : process.env.LOGO_NAME,
     MAHN: "917025994178,0",
     BRANCH: 'master',
     HEROKU: {
