@@ -1,18 +1,156 @@
-# Hi I'm Տꫝ𝔞𝔇ꪮᗯ&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/SPARK-SHADOW/SPARK-SHADOW/SPARK-SHADOW-OFFICIAL/Tools/Hi.gif" width="48px"></a>
+</a>
+</p>
+<div align="center">
+ <p align="center">
 
-![My card name](https://cardivo.vercel.app/api?name=SHADOW%20-%20BOT&description=Hi,%20Welcome%20To%20My%20Bot%20❤&image=https://i.imgur.com/2dfeu88.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_spark_shadow_&github=SPARK-SHADOW&)
+## JINU BOT SETUP
 
-## Bot Setup
-
-1. Click [SCAN](https://replit.com/@SPARK-SHADOW/ShadowBot) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
-2. You will get a long text that needs after 4th step (SHADOW_SESSION).
-3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-4. Click [FORK](https://github.com/SPARK-SHADOW/Shadow-Bot/fork)
-5. Click the url showing below to copy deploy template
-```
-https://heroku.com/deploy?template=https://github.com/SPARK-SHADOW/Shadow-Bot
-``` 
-6. Now change SPARK-SHADOW with your github username and click ENJOY<br>
+<br>
+   <a href="https://replit.com/@Afx-Abu/Jinu-Mwol?v=1"><img src="https://img.shields.io/badge/-SCAN%20THE%20REPLIT-black?style=for-the-badge&logo=replit&logoColor=white">
    <br>
-# Contact for help:
-   * Click [Contact](https://wa.me/687878087?text=Need+Help🙂) Here For Contact Shadow
+   
+<br>
+   <a href="https://heroku.com/deploy?template=https://github.com/Jinu-Xr/Jinu-Mwol"><img src="https://img.shields.io/badge/-DEPLOY%20ON%20HEROKU-634988?style=for-the-badge&logo=heroku&logoColor=white">
+   <br>
+
+
+
+## CONTACT
+
+<br>
+   <a href="http://www.instagram.com/ig-jinu"><img src="https://img.shields.io/badge/-INSTAGRAM-C00F85?style=for-the-badge&logo=instagram&logoColor=white">
+   <br>
+<br>
+   <a href="http://wa.me/917025994178"><img src="https://img.shields.io/badge/-WHATSAPP-30D14D?style=for-the-badge&logo=whatsapp&logoColor=white">
+   <br>
+<br>
+   <a href="http://www.t.me/Jinu"><img src="https://img.shields.io/badge/-TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white">
+   <br>
+<br>
+   <a href="http://www.github.com/Jinu-Xr"><img src="https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=github&logoColor=white">
+   <br>
+
+
+
+
+
+## ABOUT
+
+<br>
+   <a href="%%%%%%%%%%%%%%%%%"><img src="https://img.shields.io/badge/-VISIT OUR SITE-red?style=for-the-badge&logo=&logoColor=black">
+
+
+
+
+
+## MY DEVICE
+
+ <a href="https://gadgets.ndtv.com/huawei-nova-3i-5556"><img src="https://img.shields.io/badge/-Huawei nova 3i-white?style=for-the-badge&logo=HUAWEI&logoColor=black">
+   <br>
+
+
+
+## ABOUT ME
+
+ **NAME**         - `JINU`
+
+ **AGE**          - `15 YEAR`
+
+ **COUNTRY**      - `INDIA`
+
+ **STATE**        - `KERALA`
+
+ **DISTRICT**     - `MALAPPURAM`
+
+ **JOB**          - `STUDYING`
+
+ **CONTACT**     - `917025994178`
+   
+ **LANGUAGE**        - `MALAYALAM,ENGLISH`
+
+
+##### HERE SOME COMMANDS FOR OWNERS
+
+
+
+| Active | Group commands |
+| :----: | :------------- |
+|   ☑   | Kick           |
+|   ☑   | Tag            |
+|   ☑   | Add            |
+|   ☑   | Warn           |
+|   ☑   | Vote           |
+|   ☑   | Invite         |
+|   ☑   | Revoke         |
+|   ☑   | Demote         |
+|   ☑   | Promote        |
+|   ☑   | Banbye         |
+|   ☑   | Goodbye        |
+|   ☑   | Welcome        |
+|   ☑   | Schedule       |
+|   ☑   | Auto-mute      |
+|   ☑   | Mute/Unmute    |
+|   ☑   | Common/Diff    |
+
+| Active | Dowloader commands    |
+| :----: | :-------------------- |
+|   ☑   | Saavn                 |
+|   ☑   | Upload                |
+|   ☑   | Yta/Ytv               |
+|   ☑   | Unsplash              |
+|   ☑   | Mediafire             |
+|   ☑   | Pinterest             |
+|   ☑   | SoundCloud            |
+|   ☑   | TikTok video          |
+|   ☑   | Twitter video         |
+|   ☑   | Facebook video        |
+|   ☑   | Instagram story       |
+|   ☑   | YouTube audio/video   |
+|   ☑   | Instagram video/image |
+
+| Active | Misc Commands     | Usage                        |
+| :----: | :---------------- | :--------------------------- |
+|   ☑   | Qr                | Reads QR code                |
+|   ☑   | Ss                | Screenshot of web            |
+|   ☑   | Url               | Gets url of media            |
+|   ☑   | Trt               | Translates messages          |
+|   ☑   | Mp3               | Video to mp3                 |
+|   ☑   | Txt               | Image to text                |
+|   ☑   | Afk               | Away from keyboard           |
+|   ☑   | Cut               | Cuts mp3                     |
+|   ☑   | Pdf               | Images to pdf                |
+|   ☑   | Mp4               | Sticker to video             |
+|   ☑   | Take              | Change sticker pack info     |
+|   ☑   | Wiki              | Wikipedia search             |
+|   ☑   | Meme              | Text on photos               |
+|   ☑   | Trim              | Trims video                  |
+|   ☑   | Find              | It finds song                |
+|   ☑   | Attp              | Coloured text sticker        |
+|   ☑   | Alive             | To check alive or not        |
+|   ☑   | Whois             | Group or individual data     |
+|   ☑   | Movie             | Shows Movie Info             |
+|   ☑   | Merge             | It merge a videos            |
+|   ☑   | Voice             | Voice to mp3                 |
+|   ☑   | Topdf             | Documnet ot pdf              |
+|   ☑   | Emoji             | Emoji to sticker             |
+|   ☑   | Lydia             | Auto AI chat                 |
+|   ☑   | Sticker           | Photo/video to sticker       |
+|   ☑   | Reverse           | Reverse audio/video          |
+|   ☑   | Unvoice           | Audio to voices              |
+|   ☑   | Wasted            | Wasted logo                  |
+|   ☑   | Trigged           | Triggered effect             |
+|   ☑   | Forward           | Forwarding msg using jid     |
+|   ☑   | Compress          | Compresses video             |
+|   ☑   | Google            | Google reverse image search  |
+|   ☑   | Upload            | Download from Url            |
+|   ☑   | Weather           | Shows weather                |
+|   ☑   | Getjids           | Gets jids of chats           |
+|   ☑   | Removebg          | Removes background           |
+|   ☑   | Setabout          | Sets bio                     |
+|   ☑   | Setstatus         | Sets status                  |
+|   ☑   | Pitch/low/bass    | Audio effects                |
+|   ☑   | Histo/vector/aves | Audio to video               |
+|   ☑   | Block/unblock     | Blocks/unblocks members      |
+|   ☑   | Broadcast         | Custom Broadcasting Messages |
+
+
