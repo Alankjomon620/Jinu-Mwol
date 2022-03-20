@@ -13,7 +13,7 @@ Shadow.addCommand({pattern: 'jinu ?(.*)', fromMe: wk, dontAddCommandList: true},
         { title: "HEROKU COMMANDS", rowId:"" },
       ]
 
-      const sections = [{ title: "🎈ꪶ Տꫝ𝔞𝔇ꪮᗯ ꫂ🎈", rows: rows }]
+      const sections = [{ title: "🎈ꪶ ᴊɪɴᴜ ᴍᴡᴏʟ ꫂ🎈", rows: rows }]
 
       const listButton = {
         buttonText: "SELECT",
