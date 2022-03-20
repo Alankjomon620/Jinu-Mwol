@@ -217,6 +217,16 @@
             "required": false,
             "value": "https://i.imgur.com/wKFKh2l.jpg"
         }, 
+        "LG_LOGO": {
+            "description": "LOGO list message image link(https://telegra.ph/)link.",
+            "required": true,
+            "value": "https://telegra.ph/file/0e0409148fa47cdb92582.jpg"
+        },
+        "LOGO_NAME": {
+            "description": "Set the logo list name",
+            "required": true,
+            "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴊɪɴᴜ ᴍᴏʟ࿐"
+        },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
             "required": false,
