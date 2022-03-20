@@ -1,6 +1,6 @@
 const { MessageType, Mimetype  } = require('@adiwajshing/baileys')
 
-const shadowButton = (id, text1, desc1, but = [], options = {}) => {
+const jinuButton = (id, text1, desc1, but = [], options = {}) => {
       const buttonMessage = {
         contentText: text1,
         footerText: desc1,
@@ -10,4 +10,4 @@ const shadowButton = (id, text1, desc1, but = [], options = {}) => {
       message.sendMessage(id, buttonMessage, MessageType.buttonsMessage, options);
     };
 
-module.exports = { shadowButton }
+module.exports = { jinuButton }
