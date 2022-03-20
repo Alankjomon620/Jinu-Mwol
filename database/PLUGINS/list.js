@@ -3,7 +3,7 @@ const {MessageType} = require('@adiwajshing/baileys');
 const Config = require('../../config');
 let wk = Config.WORKTYPE == 'public' ? false : true
 
-Shadow.addCommand({pattern: 'test ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+Shadow.addCommand({pattern: 'jinu ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
 
       const rows = [
         { title: "MENU", rowId:"" },
