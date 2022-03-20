@@ -60,6 +60,8 @@ module.exports = {
     AFKMSG: process.env.AFK_MESSAGE === undefined ? 'default' : process.env.AFK_MESSAGE,
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
+    PHONE: process.env.NUMBER === undefined ? '917025994178' : process.env.NUMBER, 
+    OA_NAME: process.env.DEPLOYER === undefined ? 'undefined' : process.env.DEPLOYER,    
     INSTA: process.env.LINK === undefined ? 'https://instagram.com/_.lino_ox' : process.env.LINK,
     GROUP: process.env.LINK === undefined ? 'https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk' : process.env.LINK,   
     LG_LOGO: process.env.LG_LOGO === undefined ? 'https://i.imgur.com/Ho34ZwC.jpg' : process.env.LG_LOGO,
