@@ -7,7 +7,7 @@ const MyPnk = require('../events');
 const {MessageType, Mimetype } = require('@adiwajshing/baileys');
 const FilterDb = require('./sql/filters');
 const Config = require('../config')
-const Spark = require('../spark')
+const Jinu = require('../jinu')
 const afnp = Spark.PLKAFN !== false ? Spark.PLKAFN.split(',') : [];
 const jid = Config.DISBGM !== false ? Config.DISBGM.split(',') : [];
 const Language = require('../language');
